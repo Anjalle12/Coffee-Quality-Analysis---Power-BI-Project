@@ -14,7 +14,7 @@ This project analyzes coffee quality using a dataset provided by CQI to identify
 - Power BI Desktop
 
 ## How to Use
-1. Open the power bi project.pbix` file in Power BI Desktop.
+1. Open the powerbi project.pbix file in Power BI Desktop.
 2. Explore the visualizations and insights generated from the dataset.
 
 ## Key Insights
